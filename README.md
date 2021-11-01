@@ -1,1 +1,4 @@
-<font color=red size=72 face=”黑體”> This is an example of GitHubDemo</font>
+# This is an example of GitHubDemo
+## This is an example of GitHubDemo
+### This is an example of GitHubDemo
+<http://markdown.tw/>
